@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://videobundamontok.pages.dev/sitemap.xml
